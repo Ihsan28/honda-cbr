@@ -2,7 +2,7 @@ body
 {
     overflow-x: hidden;
 }
-.header-bg-color
+.header-bg
 {
     background-color: rgba(38, 70, 83, 1);
 }
@@ -14,7 +14,7 @@ body
 {
     filter: grayscale(100%);
 }
-.review-section-header
+.review-header
 {
     color: rgba(231, 111, 81, 1);
     
@@ -23,7 +23,7 @@ body
 {
     color: rgb(28, 28, 102);
 }
-.t-small-color
+.small-color
 {
     color: rgba(231, 111, 81, 1);
 }
